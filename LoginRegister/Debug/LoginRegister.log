@@ -1,0 +1,3 @@
+﻿  LoginRegister.cpp
+c:\users\user\source\repos\loginregister\loginregister\loginregister.cpp(14): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LoginRegister.vcxproj -> C:\Users\User\source\repos\LoginRegister\Debug\LoginRegister.exe
